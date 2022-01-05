@@ -1,0 +1,60 @@
+.imageservice {
+    width:20%;
+    margin-left:140px;
+    margin-top:40px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+#descr {
+    display:flex;
+    align-content: space-around;
+}
+
+.title {
+    margin-left: 20em;
+}
+
+.traith {
+    border-bottom: 1px solid #000000;
+    padding-top: 1px;
+}
+
+.name {
+    font-family: Montserrat;
+    font-size: 1.5em;
+}
+
+.soustitre {
+    font-family: Montserrat;
+    font-size: 1em;
+}
+
+.traith2 {
+    border-bottom: 1px solid #000000;
+    padding-top: 1px;
+    margin-right:4em;
+}
+
+.traith3 {
+    border-bottom: 1px solid #000000;
+    padding-top: 1px;
+    margin-right:11em;
+}
+
+.soustitre2 {
+    font-family: Montserrat;
+    font-size: 1em;
+    margin-right:2em;
+}
+
+.soustitre3 {
+    font-family: Montserrat;
+    font-size: 1em;
+    margin-right:8em;
+}
+
+

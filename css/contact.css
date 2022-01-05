@@ -1,0 +1,57 @@
+#containeurInformations {
+    display: flex;
+    justify-content: center;
+}
+
+.styleformulaire {
+    margin-bottom: 15px;
+}
+
+.informations {
+    font-size: 18px;
+    font-family: Arial;
+}
+
+#contact-form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top:15px;
+}
+
+.traitContact {
+    border-bottom: 1px solid #000000;
+    padding-top: 10px;
+    width: 50%;
+    margin-left:25%;
+}
+
+#formulaireContact {
+    display: flex;
+    justify-content: center;
+    margin-top:15px;
+}
+
+::placeholder {
+    text-align: center;
+    font-size: 16px;
+    font-family: Arial;
+    margin:15px;
+    text-transform:uppercase;
+    color: #000000;
+}
+
+input {
+    padding:15px;
+    width:400px;
+}
+
+textarea {
+    padding:15px;
+    width:400px;
+}
+
+.buttonSub {
+    padding:15px;
+    width:400px;
+}
